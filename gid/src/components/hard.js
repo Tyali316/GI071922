@@ -12,13 +12,13 @@ const PeopleInfoList = () => {
 
         {name: "Kelly",
         age: "22",
-        dateOfBirth: "06/25/2000",
+        dateOfBirth: "12/25/2000",
         number: "222-222-2232",
         email: "kellysemail@gmail.com"},
 
         {name: "John",
         age: "25",
-        dateOfBirth: "06/25/1997",
+        dateOfBirth: "05/15/1997",
         number: "555-555-5555",
         email: "jonnyboysemail@gmail.com"},
 
